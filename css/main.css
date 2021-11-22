@@ -91,7 +91,7 @@ fieldset form input{
     border-bottom-color: rgb(180, 178, 178);
     width: 25%;
     opacity: 0.8;
-    transition-duration: 0.5s;
+    transition-duration: 0.5s; 
 }
 /* focus animé */
 fieldset form input:focus{
